@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">"A passionate game developer, specializing in creating engaging 2D and 3D experiences.</h3>
+<h3 align="center">"Interested in cybersecurity, eager to learn basic security measures and solutions.</h3>
 
 - 📫 How to reach me **burakdoqannn@gmail.com**
 
